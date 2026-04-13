@@ -1,4 +1,4 @@
-# Study Assistant 📅
+# Rewild 📅
  
 > A smarter calendar for students — syncs Canvas assignments with exact due times, custom reminders, and study group coordination.
  
@@ -10,9 +10,9 @@ Canvas has a built-in schedule view, but it only shows *dates* — not the speci
  
 ---
  
-## What CanvasSync Does
+## What Rewild Does
  
-CanvasSync pulls your Canvas assignments and due dates into a single, time-accurate calendar you actually want to use.
+Rewild pulls your Canvas assignments and due dates into a single, time-accurate calendar you actually want to use.
  
 ### ✅ MVP (v1.0)
  
